@@ -1,0 +1,69 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-image: url("https://images2.alphacoders.com/743/743103.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  outline: 0;
+  overflow: hidden;
+}
+
+.container {
+  padding-top: 10%;
+  display: flex;
+  flex-direction: column;
+}
+
+nav {
+  width: 100%;
+}
+
+.card-outer {
+  width: 150px;
+  height: 250px;
+
+  .card-inner {
+    border-radius: 30px;
+    transform-style: preserve-3d;
+    transition: 0.5s linear 0.1s;
+    width: inherit;
+    height: inherit;
+
+    &.showBack {
+      transform: rotateY(180deg);
+    }
+
+    .card {
+      display: flex;
+      border: none;
+      border-radius: 30px;
+      cursor: pointer;
+      backface-visibility: hidden;
+      position: absolute;
+
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+
+      &.front {
+        background-image: url("./images/joker.png");
+        background-position: center;
+        background-size: 180% 120%;
+        transform: rotateY(0);
+      }
+
+      &.back {
+        background-image: url("./images/joker.png");
+        background-position: center;
+        background-size: 180% 120%;
+        transform: rotateY(180deg);
+      }
+    }
+  }
+}
