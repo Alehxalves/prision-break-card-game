@@ -6,64 +6,52 @@
 body {
   background-image: url("https://images2.alphacoders.com/743/743103.jpg");
   background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
   height: 100vh;
-  outline: 0;
-  overflow: hidden;
-}
-
-.container {
-  padding-top: 10%;
-  display: flex;
-  flex-direction: column;
+  align-items: center;
 }
 
 nav {
   width: 100%;
+  font-weight: 500;
 }
 
-.card-outer {
-  width: 150px;
-  height: 250px;
+.app_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
-  .card-inner {
-    border-radius: 30px;
-    transform-style: preserve-3d;
-    transition: 0.5s linear 0.1s;
-    width: inherit;
-    height: inherit;
+.menu {
+  display: flex;
+  margin-top: 10%;
+  border-radius: 10px;
+  flex-direction: column;
+  width: 300px;
+  height: 300px;
+  background-color: #222831;
+}
 
-    &.showBack {
-      transform: rotateY(180deg);
-    }
+.links {
+  display: flex;
+  flex-direction: column;
+  padding-top: 30%;
+}
 
-    .card {
-      display: flex;
-      border: none;
-      border-radius: 30px;
-      cursor: pointer;
-      backface-visibility: hidden;
-      position: absolute;
+button {
+  width: 10em;
+  border-radius: 4px;
+  align-self: center;
+  outline: none;
+  border: none;
+  margin-bottom: 10px;
+  background-color: #30475e;
+}
 
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-
-      &.front {
-        background-image: url("./images/joker.png");
-        background-position: center;
-        background-size: 180% 120%;
-        transform: rotateY(0);
-      }
-
-      &.back {
-        background-image: url("./images/joker.png");
-        background-position: center;
-        background-size: 180% 120%;
-        transform: rotateY(180deg);
-      }
-    }
-  }
+.nav-link {
+  color: #fff;
+  font-weight: 500;
 }
