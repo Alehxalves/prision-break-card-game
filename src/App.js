@@ -4,12 +4,14 @@ import "./styles.scss";
 
 import Rules from "./components/Rules";
 import Game from "./components/Game";
+import Themes from "./components/Themes";
 import React, { createContext, useState, useEffect } from "react";
 
 export const AppContext = createContext();
 
 function App() {
   const [showMenu, setShowMenu] = useState("visible");
+  const [showTheme, setShowTheme] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -24,6 +26,10 @@ function App() {
 
   const ShowMenu = () => {
     setShowMenu("flex");
+  };
+
+  const handleClickTheme = () => {
+    setShowTheme(!showTheme);
   };
 
   return (
@@ -52,8 +58,12 @@ function App() {
                   Rules
                 </Link>
               </button>
+              <button className="nav-link" onClick={handleClickTheme}>
+                Temas
+              </button>
             </div>
           </div>
+          <Themes show={showTheme} handleClose={handleClickTheme} />
         </div>
 
         <Routes>
