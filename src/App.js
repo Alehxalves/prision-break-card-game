@@ -50,12 +50,12 @@ function App() {
             <div className="links">
               <button onClick={closeMenu}>
                 <Link to={"game"} className="nav-link">
-                  Game
+                  Jogar
                 </Link>
               </button>
               <button onClick={closeMenu}>
                 <Link to={"rules"} className="nav-link">
-                  Rules
+                  Regras
                 </Link>
               </button>
               <button className="nav-link" onClick={handleClickTheme}>
