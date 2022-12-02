@@ -35,11 +35,11 @@ function Rules() {
             </ListGroup.Item>
             <ListGroup.Item variant="secondary" as="li">
             Para dar início à primeira rodada, clique na carta ao centro, 
-            ela mostrará o naipe correspondente para aquela rodada.
+            ela mostrará o objeto correspondente para aquela rodada.
             </ListGroup.Item>
             <ListGroup.Item variant="secondary" as="li">
-            O jogo acaba quando as cartas nas mãos dos jogadores acabarem, lembrando que se usa uma por vez, portanto, 
-            o número de cartas determina o número de rodadas.
+            O jogo acaba quando os objetos/cartas nas mãos dos jogadores acabarem, lembrando que se usa uma por vez, portanto, 
+            o número de objetos/cartas determina o número de rodadas.
             </ListGroup.Item>
           </ListGroup>
         </div>
