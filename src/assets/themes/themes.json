@@ -5,200 +5,25 @@
 			"cards": [
 				{
 					"tag": "back",
-					"url": "https://i.ibb.co/nC0jtJD/back.jpg"
+					"url": "https://i.ibb.co/285z8DQ/back.jpg"
 				},
 				{
-					"tag": "spades",
-					"url": "https://i.ibb.co/M8W6cSk/spades.jpg"
+					"tag": "scissor",
+					"url": "https://i.ibb.co/q9b4kkz/spade.jpg"
 				},
 				{
-					"tag": "hearts",
-					"url": "https://i.ibb.co/JtPkDDM/hearts.jpg"
+					"tag": "key",
+					"url": "https://i.ibb.co/sF8xcwd/clubs.jpg"
 				},
 				{
-					"tag": "clubs",
-					"url": "https://i.ibb.co/Sc7BNqd/clubs.jpg"
+					"tag": "cigarrete",
+					"url": "https://i.ibb.co/CBW3QvG/gold.jpg"
 				},
 				{
-					"tag": "gold",
-					"url": "https://i.ibb.co/BL4HptC/gold.jpg"
+					"tag": "nail",
+					"url": "https://i.ibb.co/n1ynMVd/hearts.jpg"
 				}
 			]
-		},
-		{
-			"name": "Back-Malam-Deluxe-USA.",
-			"cards": [
-				{
-					"tag": "back",
-					"url": "https://i.ibb.co/99BXhNC/back.jpg"
-				},
-				{
-					"tag": "spades",
-					"url": "https://i.ibb.co/Cv7dZx7/spades.jpg"
-				},
-				{
-					"tag": "hearts",
-					"url": "https://i.ibb.co/3mqLmf4/hearts.jpg"
-				},
-				{
-					"tag": "clubs",
-					"url": "https://i.ibb.co/2d4WFFJ/clubs.jpg"
-				},
-				{
-					"tag": "gold",
-					"url": "https://i.ibb.co/BnPNPgz/gold.jpg"
-				}
-			]
-		},
-		{
-			"name": "Play-Architecture-Finnish-Building-Centre-Rakennustieto-Oy.",
-			"cards": [
-				{
-					"tag": "back",
-					"url": "https://i.ibb.co/kMtCr6B/Back-from-deck-Play-Architecture-Finnish-Building-Centre-Rakennustieto-Oy.jpg"
-				},
-				{
-					"tag": "spades",
-					"url": "https://i.ibb.co/j6Dyq3g/spades.jpg"
-				},
-				{
-					"tag": "hearts",
-					"url": "https://i.ibb.co/sH6Df6C/hearts.jpg"
-				},
-				{
-					"tag": "clubs",
-					"url": "https://i.ibb.co/pzN7gTP/clubs.jpg"
-				},
-				{
-					"tag": "gold",
-					"url": "https://i.ibb.co/TgtWGNJ/gold.jpg"
-				}
-			]
-		},
-		{
-			"name": "Praha-Poker-cards.",
-			"cards": [
-				{
-					"tag": "back",
-					"url": "https://i.ibb.co/DLTbMfK/back.jpg"
-				},
-				{
-					"tag": "spades",
-					"url": "https://i.ibb.co/HpW4gSC/spades.jpg"
-				},
-				{
-					"tag": "hearts",
-					"url": "https://i.ibb.co/4VYbLwd/hearts.jpg"
-				},
-				{
-					"tag": "clubs",
-					"url": "https://i.ibb.co/m8mdBWK/clubs.jpg"
-				},
-				{
-					"tag": "gold",
-					"url": "https://i.ibb.co/bbXd9Fp/gold.jpg"
-				}
-			]
-		},
-		{
-			"name": "Royal-Hawaiian-Honolulu-cards.",
-			"cards": [
-				{
-					"tag": "back",
-					"url": "https://i.ibb.co/X4x6RHx/back.jpg"
-				},
-				{
-					"tag": "clubs",
-					"url": "https://i.ibb.co/vLc8kL7/clubs.jpg"
-				},
-				{
-					"tag": "gold",
-					"url": "https://i.ibb.co/ynhhBQp/gold.jpg"
-				},
-				{
-					"tag": "hearts",
-					"url": "https://i.ibb.co/w0KJCQd/hearts.jpg"
-				},
-				{
-					"tag": "spades",
-					"url": "https://i.ibb.co/kJrGnD0/spades.jpg"
-				}
-			]
-		},
-		{
-			"name": "Russian-traditional-style-playing-cards.",
-			"cards": [
-				{
-					"tag": "back",
-					"url": "https://i.ibb.co/Fw3SBPn/back.jpg"
-				},
-				{
-					"tag": "clubs",
-					"url": "https://i.ibb.co/ckFzc8D/clubs.jpg"
-				},
-				{
-					"tag": "gold",
-					"url": "https://i.ibb.co/cxWWTLK/gold.jpg"
-				},
-				{
-					"tag": "hearts",
-					"url": "https://i.ibb.co/XyJL2Q6/hearts.jpg"
-				},
-				{
-					"tag": "spades",
-					"url": "https://i.ibb.co/Phrsyn4/spades.jpg"
-				}
-			]
-		},
-		{
-			"name": "Versailles-fine-cards-from-Sankt-Petersbourg",
-			"cards": [
-				{
-					"tag": "back",
-					"url": "https://i.ibb.co/XVMTjk7/back.jpg"
-				},
-				{
-					"tag": "clubs",
-					"url": "https://i.ibb.co/KXBCvLM/clubs.jpg"
-				},
-				{
-					"tag": "gold",
-					"url": "https://i.ibb.co/nBkmgk2/gold.jpg"
-				},
-				{
-					"tag": "hearts",
-					"url": "https://i.ibb.co/zHsK2wv/hearts.jpg"
-				},
-				{
-					"tag": "spades",
-					"url": "https://i.ibb.co/dPMsWjR/spades.jpg"
-				}
-			]
-		},
-		{
-			"name": "Marvel.",
-			"cards": [
-				{
-					"tag": "back",
-					"url": "https://i.ibb.co/n8Pd1yW/back.jpg"
-				},
-				{
-					"tag": "clubs",
-					"url": "https://i.ibb.co/7zvkyh5/clubs.jpg"
-				},
-				{
-					"tag": "gold",
-					"url": "https://i.ibb.co/DRYv26v/gold.jpg"
-				},
-				{
-					"tag": "hearts",
-					"url": "https://i.ibb.co/6g6tTdS/hearts.jpg"
-				},
-				{
-					"tag": "spades",
-					"url": "https://i.ibb.co/gV0tfwH/spades.jpg"
-				}
-			]
-		}
+		}	
 	]
 }
