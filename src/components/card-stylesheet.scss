@@ -5,12 +5,12 @@
   margin-top: 4rem;
   width: 100vw;
   height: 80vh;
-  
 }
 
 .card-outer {
   width: 200px;
-  height: 400px;
+  height: 300px;
+  border-radius: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -38,8 +38,9 @@
       height: 100%;
 
       &.front {
+        border-radius: 20px;
         background-color: transparent;
-        background-size: contain;
+        background-size: cover;
         background-repeat: no-repeat;
         transform: rotateY(0);
       }
